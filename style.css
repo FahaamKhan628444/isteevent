@@ -25,10 +25,11 @@ body{
     height: 10%;
 }
 .chapter{
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: brown;
     background-color:rgb(217, 231, 231);
     font-size: medium;
+    margin-bottom: 6px;
 }
 .container header{
     position: relative;
