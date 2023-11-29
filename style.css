@@ -25,10 +25,10 @@ body{
     height: 10%;
 }
 .chapter{
-    font-family:'Courier New', Courier, monospace;
+    font-family:cursive;
     color: brown;
-    background-color:rgb(183, 222, 222);
-    font-size: large;
+    background-color:rgb(217, 231, 231);
+    font-size: medium;
 }
 .container header{
     position: relative;
@@ -41,8 +41,8 @@ body{
     position: absolute;
     left: 0;
     bottom: -2px;
-    height: 3px;
-    width: 100px;
+    height: 1.5px;
+    width: 310px;
     border-radius: 8px;
     background-color: #4070f4;
     transition: 0.4s;
